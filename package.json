@@ -1,0 +1,19 @@
+{
+  "name": "react-native-camera-roll",
+  "version": "1.0.0",
+  "main": "CameraRoll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carobeta/react-native-camera-roll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carobeta/react-native-camera-roll/issues"
+  },
+  "homepage": "https://github.com/carobeta/react-native-camera-roll#readme",
+  "description": ""
+}
